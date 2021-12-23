@@ -19,5 +19,11 @@ namespace SimplePracticGit.Controllers
                 a.Msg = "Hello...........";
             return View(a);
         }
+        public IActionResult Edit()
+        {
+            var z = new SampleModel();
+            z.str = "Hi.............";
+            return View(z);
+        }
     }
 }

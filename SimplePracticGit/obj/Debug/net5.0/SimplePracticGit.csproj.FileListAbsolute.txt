@@ -40,3 +40,4 @@ D:\Snehal\Git\SimplePracticGit\SimplePracticGit\obj\Debug\net5.0\ref\SimplePract
 D:\Snehal\Git\SimplePracticGit\SimplePracticGit\obj\Debug\net5.0\SimplePracticGit.pdb
 D:\Snehal\Git\SimplePracticGit\SimplePracticGit\obj\Debug\net5.0\SimplePracticGit.genruntimeconfig.cache
 D:\Snehal\Git\SimplePracticGit\SimplePracticGit\obj\Debug\net5.0\SimplePracticGit.csproj.CopyComplete
+D:\Snehal\Git\SimplePracticGit\SimplePracticGit\obj\Debug\net5.0\Razor\Views\First\Edit.cshtml.g.cs
